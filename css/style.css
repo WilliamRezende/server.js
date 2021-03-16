@@ -1,0 +1,10 @@
+body {
+  padding-top: 1rem;
+}
+
+.titulo { 
+	background-color:#4fba77; 
+	color: #fff;
+}
+
+.logo { width: 500px; }
